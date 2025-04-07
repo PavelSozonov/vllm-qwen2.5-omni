@@ -3,7 +3,7 @@
 Documentation: https://github.com/QwenLM/Qwen2.5-Omni
 
 ```shell
-# Unmerged in transformers main branch (07.04.2025)
+# vLLM for for Qwen (07.04.2025)
 git clone --quiet git@github.com:fyabc/vllm.git
 cd vllm
 git switch --track remotes/origin/qwen2_omni_public_v1
